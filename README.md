@@ -1,5 +1,6 @@
-# SmartBrain - v2
-Final project for Udemy course
+frontend of smartbrain project using react, tachyons
+
+# Smartbrain
 
 1. Clone this repo
 2. Run `npm install`
